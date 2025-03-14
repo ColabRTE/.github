@@ -1,6 +1,6 @@
 <div align="center">
   <h2>ColabRTE - Responsive Takeoff and Extraction Engine</h2>
-  <img src="./logo.png" alt="ColabRTE_logo" width="250"/>
+  <img src="../logo.png" alt="ColabRTE_logo" width="250"/>
   <br />
   <code>AI-powered solutions for the Architecture, Engineering & Construction industry.</code>
 </div>
